@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 4f0b9a08587de9642ca7a28fc54b23c6a8d97b9b Divyahub7 <divya14042006@gmail.com> 1761669462 +0530	commit (initial): Initialize project using Create React App
-4f0b9a08587de9642ca7a28fc54b23c6a8d97b9b 80e31679a5541484e69fb5482d6723f9eac84f9c Divyahub7 <divya14042006@gmail.com> 1761768023 +0530	commit: Galify
-80e31679a5541484e69fb5482d6723f9eac84f9c 0000000000000000000000000000000000000000 Divyahub7 <divya14042006@gmail.com> 1761768190 +0530	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 80e31679a5541484e69fb5482d6723f9eac84f9c Divyahub7 <divya14042006@gmail.com> 1761768190 +0530	Branch: renamed refs/heads/master to refs/heads/main
-80e31679a5541484e69fb5482d6723f9eac84f9c 06e5cb7f827d9c5281d7c2ca0369b1ee10e9d37a Divyahub7 <divya14042006@gmail.com> 1761768582 +0530	pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
-06e5cb7f827d9c5281d7c2ca0369b1ee10e9d37a bb404d64d961353e942484dc929351f989fc0350 Divyahub7 <divya14042006@gmail.com> 1761769448 +0530	commit: Updated homepage for deployment
-bb404d64d961353e942484dc929351f989fc0350 b6ed21e22c0560b101a99cd35b568dfa30e1db76 Divyahub7 <divya14042006@gmail.com> 1761796898 +0530	commit: Stop tracking generated static build assets

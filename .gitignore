@@ -14,6 +14,9 @@
 # do not track generated static build assets
 /static
 
+# ignore local git backup created earlier
+.git_backup_*
+
 # misc
 .DS_Store
 .env.local
